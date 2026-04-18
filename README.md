@@ -25,7 +25,7 @@ I’m passionate about turning raw data into actionable insights that drive busi
 
 ## 🌐 Connect With Me  
 - 📧 Email: **haripriya.ramarajr@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/haripriya-ramaraj](https://linkedin.com/in/haripriyaramaraj)  
+- 🔗 LinkedIn: [linkedin.com/in/haripriyaramaraj](https://linkedin.com/in/haripriyaramaraj)  
 - ✍️ Medium: [medium.com/@haripriya.ramarajr](https://medium.com/@haripriya.ramarajr)  
 
 ---
