@@ -7,6 +7,6 @@ I’m passionate about turning raw data into actionable insights that drive busi
 ---
 
 ## 🔹 About Me  
-- 💼 Currently working as a **Graduate Engineer Trainee - Analyst** at **Sterling Software (CAMSFinserv)**  
+- 💼 Currently working as a **Analyst** at **Sterling Software (CAMSFinserv)**  
 - 📊 Supported **21 clients**, contributing to **INR 950K+ in revenue** and boosting conversion rates by **20%**  
 - 🛠 Skilled in **SQL, Advanced Excel, Dashboards, MIS reporting, KPI, Python (Pandas, NumPy), APIs
