@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @haripriyaramaraj
-- 👀 I’m interested in Data Analytics, AI and Technology
-- 🌱 I’m currently interested in exploring world of data
-- 💞️ I’m looking to collaborate on interesting data science projects and tech talks
-- 📫 How to reach me https://www.linkedin.com/in/haripriyaramaraj
+# 👋 Hi, I'm Haripriya Ramaraj  
 
+🚀 **Data Analyst | Financial & Consent Data Specialist | AI & ML Enthusiast**  
 
+I’m passionate about turning raw data into actionable insights that drive business growth and efficiency. With hands-on experience in financial data analysis, dashboard development, and machine learning projects, I thrive at the intersection of analytics and innovation.  
+
+---
+
+## 🔹 About Me  
+- 💼 Currently working as a **Graduate Engineer Trainee - Analyst** at **Sterling Software (CAMSFinserv)**  
+- 📊 Supported **21 clients**, contributing to **INR 950K+ in revenue** and boosting conversion rates by **20%**  
+- 🛠 Skilled in **SQL, Advanced Excel, Dashboards, MIS reporting, KPI, Python (Pandas, NumPy), APIs
